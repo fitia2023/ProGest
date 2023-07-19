@@ -1,0 +1,21 @@
+.navbar-custom {
+    background: linear-gradient(to right, #8A2BE2, #191970);
+    /* Code couleur pour le bleu nuit */
+}
+
+
+.table-container {
+    max-height: 600px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    overflow-y: auto;
+}
+
+
+.nav-link.active {
+    color: green;
+    /* Ajoutez d'autres styles si nécessaire */
+}
+
+
